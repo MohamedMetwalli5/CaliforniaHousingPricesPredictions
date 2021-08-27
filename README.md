@@ -1,1 +1,1 @@
-# practice-kaggle
+# California Housing Prices Predictions
